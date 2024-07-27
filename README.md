@@ -34,7 +34,7 @@ Run this command to run the task.py file:
 ```bash
 docker-compose run task
 ```
-## Stopping Docker Image
+### Stopping Docker Image
 Run this command to stop the docker image:
 ```bash
 docker-compose down
