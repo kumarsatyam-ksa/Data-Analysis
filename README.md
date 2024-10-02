@@ -1,6 +1,3 @@
-# tanX.fi Infrastructure Engineer
-# Kumar Satyam, Vellore Institute of Technology
-This task is for tanX.fi Infrastructure Engineer assessment round.
 ## Problem Statement
 You have been given a dataset of customer orders from an online store. The data is in a CSV file `orders.csv` with the following columns:
 * order_id: unique identifier for each order
